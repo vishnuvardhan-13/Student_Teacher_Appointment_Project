@@ -1,0 +1,60 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0; /* Remove padding to avoid extra space */
+  text-align: center;
+}
+
+.Intershala {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0; /* Remove padding to avoid extra space */
+  text-align: center;
+}
+
+.main-content {
+  min-height: 80vh; /* Maintain the minimum height */
+  padding: 20px; /* Padding for the main content */
+  display: flex; /* Use flex to center content */
+  flex-direction: column; /* Stack items vertically */
+  align-items: center; /* Center items horizontally */
+  justify-content: flex-start; /* Align items to the start */
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
