@@ -40,7 +40,7 @@ InterShala is a web-based system that streamlines communication and scheduling b
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/InterShala.git
+   git clone https://github.com/VamshiRealm/InterShala.git
    cd InterShala
    ```
 
