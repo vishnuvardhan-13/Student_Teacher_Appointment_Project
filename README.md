@@ -8,7 +8,12 @@ A Student-Teacher Appointment Booking Website built with React, Firebase, and Vi
 InterShala is a web-based system that streamlines communication and scheduling between students, teachers, and administrators. The platform enables efficient appointment booking, message management, and user administration.
 
 ---
+## **Access**
+Hosted at: https://intershalaschool.netlify.app/
 
+General Walk-through video: https://drive.google.com/file/d/1H8-MkYdzcQTO7CfY-AMKTVMTN6rh_Lhi/view?pli=1
+
+---
 ## **Features**
 ### **Student Features**
 - Search for teachers based on department and subject.
